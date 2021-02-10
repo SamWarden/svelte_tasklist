@@ -1,5 +1,5 @@
 <script lang="ts">
-  import type { Task } from "./types.ts";
+  import type { Task } from "../types.ts";
   import { tasks } from "../tasks.ts";
   import TaskView from "./TaskView.svelte";
 </script>

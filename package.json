@@ -27,6 +27,8 @@
     "typescript": "^3.9.3"
   },
   "dependencies": {
+    "@polkadot/api": "^3.8.1",
+    "@polkadot/wasm-crypto": "^3.2.2",
     "increase-memory-limit": "^1.0.7",
     "sirv-cli": "^1.0.0"
   }

@@ -1,5 +1,5 @@
 <script lang="ts">
-  import type { Task } from "./types";
+  import type { Task } from "../types.ts";
   import { tasks } from "../tasks.ts";
 
   let taskText: string = "";

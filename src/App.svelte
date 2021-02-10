@@ -3,7 +3,7 @@
   import InputTasks from "./tasks_components/InputTasks.svelte";
   import TasksDisplay from "./tasks_components/TasksDisplay.svelte";
 
-  import { tasks } from "./tasks.ts";
+  // import { tasks } from "./tasks.ts";
 </script>
 
 <Tailwindcss />
